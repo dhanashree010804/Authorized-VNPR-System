@@ -32,4 +32,18 @@ The Authorized Vehicle Number Plate Recognition (VNPR) System is a real-time app
 7. **Access Decision** – Allow or deny access based on match
 
 ### 📊 Architecture Flow Diagram
-![System Architecture](images/how-to-make-a-research-poster.png)
+![System Architecture](System-Architecture.png)
+
+## 🧪 Results
+
+- **Detection Accuracy**: **94%**
+- **Real-time performance** on pre-recorded video and webcam footage
+- **Database verification** correctly identifies authorized and unauthorized vehicles
+
+## 📌 Project Status
+
+✅ Core functionality working  
+⚠️ Scope for future enhancement (helmet detection, cloud integration, mobile deployment)
+
+
+
